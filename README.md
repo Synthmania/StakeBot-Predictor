@@ -1,0 +1,2 @@
+# StakeBot-Predictor
+1
